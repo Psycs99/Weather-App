@@ -7,3 +7,7 @@ and then once you click on the invisible Container or transparent where the temp
 you can search for any city in the world, (you have to load a database first), add it to a list, 
 (you have to make a database to save that list also so it is not deleted when you change screens) 
 and then see the weather of that city and update it to appear on the main page.
+
+You will need to add your openweathermap.org apiKey to make it work or reuse the code to make it work with another provider.
+
+This app was developed 100% by me, helping me with StackOverflow website and ChatGPT AI, after completing Udemy's Basic Flutter course.
